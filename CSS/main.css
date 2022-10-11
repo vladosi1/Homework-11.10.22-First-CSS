@@ -1,0 +1,35 @@
+body {
+	background: #F0F3F5;
+	margin-top: 105px;
+}
+
+h1 {
+margin-right: 50px;
+font-family: Arial;
+font-weight: 900;
+}
+
+div{
+border-width: 6px;
+border-color: #FFFFFF;
+border-style: solid;
+border-radius: 15px;
+background-color:#FFFFFF;
+margin-left:250px;
+margin-right:250px;
+padding: 50px;
+}
+
+p{
+font-family: Calibri;
+font-size: 20px;
+
+}
+
+
+
+a{
+text-decoration: none;
+color: #4682B4;
+}
+
